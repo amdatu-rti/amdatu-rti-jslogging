@@ -2,7 +2,8 @@
   "name": "amdatu-rti-jslogging",
   "version": "1.0.0",
   "authors": [
-    "Paul Bakker <paul.bakker@luminis.eu>"
+    "Paul Bakker <paul.bakker@luminis.eu>",
+    "Raluca Grigoras <raluca.grigoras@luminis.eu>"
   ],
   "description": "JavaScript/TypeScript code to be used with the Amdatu RTI Logging",
   "main": [
@@ -11,6 +12,8 @@
   ],
   "license": "ASLv2",
   "ignore": [
+    "Gruntfile.js",
+    "package.json",
     "node_modules",
     "bower_components",
     "test",
