@@ -1,0 +1,30 @@
+{
+  "name": "amdatu-rti",
+  "version": "1.0.0",
+  "authors": [
+    "Paul Bakker <paul.bakker@luminis.eu>"
+  ],
+  "description": "JavaScript/TypeScript code to be used with the Amdatu RTI Logging",
+  "main": [
+    "RtiWebsocketLog.js",
+    "RtiRestLog.js"
+  ],
+  "license": "ASLv2",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ],
+  "dependencies": {
+    "atmosphere": "~2.2.7",
+    "lodash": "~3.9.3",
+    "requirejs": "~2.1.18"
+  },
+  "devDependencies": {
+    "atmosphere": "~2.2.7",
+    "lodash": "~3.9.3",
+    "requirejs": "~2.1.18"
+  }
+}
