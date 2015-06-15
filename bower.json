@@ -12,8 +12,7 @@
   ],
   "license": "ASLv2",
   "ignore": [
-    "Gruntfile.js",
-    "package.json",
+    "**/.*",
     "node_modules",
     "bower_components",
     "test",
