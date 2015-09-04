@@ -17,8 +17,7 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "example"
+    "tests"
   ],
   "dependencies": {
     "atmosphere": "~2.2.7",
