@@ -11,7 +11,9 @@ module.exports = function (grunt) {
 
     // Project configuration.
     grunt.initConfig({
-
+        clean: {
+            files: ['*.js', '*.js.map', '!Gruntfile.js']
+        },
         typescript: {
             base: {
                 src: ['*.ts'],
@@ -43,6 +45,6 @@ module.exports = function (grunt) {
         }
     });
 
-    grunt.registerTask("default", ["typescript:base"]);
-    grunt.registerTask("dev", ["typescript:base", "watch"]);
+    grunt.registerTask("default", ["clean", "typescript:base"]);
+    grunt.registerTask("dev", ["clean", "typescript:base", "watch"]);
 };

@@ -22,12 +22,15 @@
   ],
   "dependencies": {
     "atmosphere": "~2.2.7",
-    "lodash": "~3.9.3",
-    "requirejs": "~2.1.18"
+    "lodash": "~3.10.1",
+    "requirejs": "~2.1.20"
   },
   "devDependencies": {
     "atmosphere": "~2.2.7",
-    "lodash": "~3.9.3",
-    "requirejs": "~2.1.18"
+    "lodash": "~3.10.1",
+    "requirejs": "~2.1.20"
+  },
+  "resolutions": {
+    "lodash": "~3.10.1"
   }
 }
