@@ -1,4 +1,4 @@
-/// <reference path="bower_components/amdatu-rti-jslogging/Logger.d.ts" />
+/// <reference path="bower_components/cloud-rti-jslogging/Logger.d.ts" />
 
 import logger = require('RtiRestLogger')
 

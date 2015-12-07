@@ -1,11 +1,11 @@
 {
-  "name": "amdatu-rti-jslogging",
+  "name": "cloud-rti-jslogging",
   "version": "1.0.1",
   "authors": [
     "Paul Bakker <paul.bakker@luminis.eu>",
     "Raluca Grigoras <raluca.grigoras@luminis.eu>"
   ],
-  "description": "JavaScript/TypeScript code to be used with the Amdatu RTI Logging",
+  "description": "JavaScript/TypeScript code to be used with the Cloud RTI Logging",
   "main": [
     "RtiWebsocketLog.js",
     "RtiRestLog.js"

@@ -1,2 +1,2 @@
-# amdatu-rti-jslogging
-Amdatu RTI Java Script Logging
+# cloud-rti-jslogging
+Cloud RTI Java Script Logging

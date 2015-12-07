@@ -6,7 +6,7 @@ require
         paths: {
             'lodash': 'bower_components/lodash/lodash.min',
             'Atmosphere' : 'bower_components/atmosphere/atmosphere',
-            'RtiLogger' : 'bower_components/amdatu-rti-jslogging/RtiRestLogger'
+            'RtiLogger' : 'bower_components/cloud-rti-jslogging/RtiRestLogger'
         },
 
         shim: {
